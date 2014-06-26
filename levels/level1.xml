@@ -1,0 +1,11 @@
+<level
+level-id="1"
+level-height="1260"
+level-width="1260"
+level-background="grass.jpg"
+player-start-x="120"
+player-start-y="60"
+>
+  <rock x="164" y="122" image="rock1.jpg"/>
+  <rock x="246" y="122" image="rock1.jpg"/>
+</level>

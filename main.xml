@@ -1,0 +1,11 @@
+<configuration 
+level-file-names="level1.xml,level2.xml"
+xml-directory-path="levels/"
+image-directory-path="images/"
+screen-width="420"
+screen-height="420"
+screen-bpp="32"
+game-fps="20"
+first-level-id="1"
+multi-direction-movement="0"
+/>
